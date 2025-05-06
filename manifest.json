@@ -1,6 +1,6 @@
 {
   "name": "Localizador de Produtos",
-  "short_name": "Produtos",
+  "short_name": "Prodotti",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
